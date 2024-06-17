@@ -2,9 +2,10 @@
 Vrinda store analysis 2022 project
 Key insights:
 Sales & order trends 
-Monthly sales pesk 
+Monthly sales peak 
 Age and gender analysis 
 Top 10 states contributing to sales 
-channel perfomance 
+channel performance 
 Best selling categories 
-this project enhance skills in data cleaning, processing, analysis, visualization with Excel. 
+
+ 
